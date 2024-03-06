@@ -1,1 +1,2 @@
-Presentación
+- RevealJS Presentation
+- Learing how to host the slides on GH Pages
